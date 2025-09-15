@@ -2,11 +2,17 @@ Pilot:
 
 Google form to get the text responses of what they want to find.
 
+Make algo to match a set of responses.
+
 
 Philosophy:
 Let's try to solve the problem and not go after money. Bring people together, fight against loneliness.
 
 Feature 1: Match based on looks.
+
+Feature 2: Connection influencer, the one who engages the community, on ground events. We don't have to hire any operations, free market takes over.
+
+
 
 Don't give me too much choice.
 
@@ -18,3 +24,4 @@ Watch things together. Live party and talk.
 
 We can target colleges.
 
+I
