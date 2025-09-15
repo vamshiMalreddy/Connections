@@ -12,7 +12,8 @@ Feature 1: Match based on looks.
 
 Feature 2: Connection influencer, the one who engages the community, on ground events. We don't have to hire any operations, free market takes over.
 
-
+Feature 3: You talk to LLM for a lending ear, that will get you your next match with better chances.
+Think of our product as the wellness consultant for the person
 
 Don't give me too much choice.
 
