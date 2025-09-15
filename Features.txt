@@ -1,3 +1,8 @@
+Pilot:
+
+Google form to get the text responses of what they want to find.
+
+
 Philosophy:
 Let's try to solve the problem and not go after money. Bring people together, fight against loneliness.
 
@@ -8,3 +13,5 @@ Match one person for week and let me talk and get to know him fully. After the w
 chatbot you 
 
 Watch things together. Live party and talk.
+
+We can target colleges.
